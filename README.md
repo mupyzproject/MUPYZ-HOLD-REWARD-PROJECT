@@ -1,4 +1,6 @@
-# MUPYZ-HOLD-REWARD-PROJECT
+WE WELCOME CONTRIBUTIONS TO THE MUPYZ-HOLD-REWARD-PROJECT! PLEASE SEE THE CONTRIBUTING.MD FILE FOR GUIDELINES ON HOW TO GET INVOLVED.
+
+MUPYZ-HOLD-REWARD-PROJECT
 REPOSITORY FOR HELP IN THE MUPYZ HOLD REWARDS AIRDROPS PROJECT, FOR THE "ENDLESS AIR EARN PROTOCOL", SMART CONTRACT RUST SOLANA
 
 MUPYZ Project (Temporary Fictitious Name)
@@ -111,48 +113,26 @@ THESE WALLETS FOR THE OPERATIONS OF THE PROJECT WILL NOT RECEIVE ANY AIRDROPS
 
 ==========================================================   X   X   ===============================================================
 
-Distribution Tokens:
+Analytical Distribution within Tokenomics:
 
 
-Pre-Sale Tokens: 170.137.142 tokens
+Pre-Sale Tokens: 170.137.142 tokens   (19.15%)
 
 
-( Direct Airdrops to Holders: 470.000.000 tokens
+[Direct Airdrops to Holders: 470.000.000 tokens   (52.92%)    < TOTAL AIRDROPS AND PRIZES 624 MILLION TOKENS 70,2% OF ALL TOKENS
 
-Exclusive Airdrops for Investor Founders: 74.000.000 tokens         < TOTAL AIRDROPS AND PRIZES 624 MILLION TOKENS 70,2% OF ALL TOKENS
+Exclusive Airdrops for Investor Founders: 74.000.000 tokens   (8.33%)
 
-Indirect Airdrops for Award and Reward: 80.000.000 tokens )
+Indirect Airdrops and Prizes: 80.000.000 tokens]   (9.01%)
 
 
-Pool Liquidity on Exchanges (CEX and DEX): 35.000.000 tokens
+Pool Liquidity on Exchanges (CEX and DEX): 35.000.000 tokens   (3.94%)
 
-Project Operations: 36.000.000 tokens
+Project Operations: 36.000.000 tokens   (4.05%)            
 
-Marketing, Promotions, Partnerships: 23.000.000 tokens
+Marketing, Promotions, Partnerships: 23.000.000 tokens   (2.59%)
 
 Total Supply: 888.137.142 tokens
-
-______________________________________________________________________
-
-
-Distribution Percent % Tokens
-
-
-Pre-Sale Tokens: 19.15%
-
-
-( Direct Airdrops to Holders: 52.92%
-
-Exclusive Airdrops for Investor Founders: 8.33%             < TOTAL AIRDROPS AND PRIZES 70,2% OF ALL TOKENS
-
-Indirect Airdrops for Award and Reward: 9.01% )
-
-
-Pool Liquidity on Exchanges (CEX and DEX): 3.94%
-
-Project Operations: 4.05%
-
-Marketing, Promotions, Partnerships: 2.59%
 
 
 ========================================================================
