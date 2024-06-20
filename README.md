@@ -57,10 +57,10 @@ PROPOSE TOKEMIC OF MUPYZ
 
 888.137.142  MILLION TOTAL SUPPLY
                                                                    
-====================================================================================================                              
+=================================================================================                              
 
 170.137.142  MILLON TOKENS >  FOR PRE SALE VAALUE U$ 0.0355 EACH TOKEN                          
-____________________________________________________________________________________________________            
+_________________________________________________________________________________            
 
 TOTAL OF 624.000.000 MILLION TOKENS DISTRIBUTED IN ALL AIRDROPS DIRECT, INDIRECT and PRIZES
 
@@ -75,8 +75,7 @@ TOTAL OF 624.000.000 MILLION TOKENS DISTRIBUTED IN ALL AIRDROPS DIRECT, INDIRECT
 
 + 47 MiLLION TOKENS  5º  airdrop                                                                                     
 
-+ 47 MiLLION TOKENS  6º  airdrop                            <  TOTAL 544 MiLLION TOKENS to airdrops                              
-                                                               periodic each 40 days for all detentors
++ 47 MiLLION TOKENS  6º  airdrop         <  TOTAL 544 MiLLION TOKENS to periodic direct airdrops each 40 days for all detentors                                                                                         
 + 47 MiLLION TOKENS  7º  airdrop                                           
 
 + 47 MiLLION TOKENS  8º  airdrop                                     
